@@ -1,3 +1,3 @@
 # JAVAdoc
 
-[Ссылки](doc/link.md")
+[Ссылки](doc/link.md)
