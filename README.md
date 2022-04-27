@@ -1,3 +1,3 @@
 # JAVAdoc
 
-[Ссылки](belousoffplus/JAVAdoc/blob/main/doc/link.md")
+[Ссылки](doc/link.md")
