@@ -7,4 +7,4 @@
 
 [JavaFX_.pdf](https://cloud.mail.ru/public/PDwv/BRFEkHiLR "pdf")
 
-[На главную](README.md)
+[На главную](../README.md)
